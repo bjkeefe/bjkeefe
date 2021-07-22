@@ -2,7 +2,7 @@ Hi, I’m @bjkeefe.
 
 I’m currently learning (teaching myself, mostly, thanks to the myriad of resources out there) Python, Sphinx, and Git.
 Consequently, pretty much everything that I have on this site at the moment and in the near future will be stuff that's
-created as part of the learning process.  Most likely, it won't be much use to anybody else, except possibly maybe others
+created as part of the learning process.  Most likely, it won't be much use to anybody else, except possibly to others
 at a similar stage in the learning process.  Or, perhaps, as examples of how not to do something.
 
 So, feel free to copy, reuse, modify, etc., anything you see here, but please do *not* rely on anything I've posted here
